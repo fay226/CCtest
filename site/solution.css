@@ -21,6 +21,27 @@ p {
   float: left;
 }
 
+#C {
+	background-color: blue;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+#B {
+	background-color: blue;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+#S {
+	background-color: blue;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
 /* Simple Responsive Framework. */
 /*.row {
   width: 100%;
