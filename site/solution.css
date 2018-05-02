@@ -16,7 +16,7 @@ p {
   width: 33.33%;	
   padding: 20px;
   background-color: #A52A2A;
-  font-family: Helvetica;
+  border: 1px solid black;
   color: white;
   float: left;
 }
