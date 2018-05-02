@@ -1,6 +1,65 @@
+* {
+	box-sizing: border-box;
+}
+
 body{
-	font-size: 175%;
 	text-align: center;
 	color: 	#000000;
 	font-family: proxima-nova, sans-serif;
 }
+
+h1{
+	font-size: 175%;
+}
+
+p {
+  border: 1px solid black;
+  background-color: #A52A2A;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: white;
+}
+
+/* Simple Responsive Framework. */
+/*.row {
+  width: 100%;
+}
+
+/********** Large devices only **********/
+/*@media (min-width: 992px) {
+  .col-lg-1, .col-lg-2, .col-lg-3{
+  float: left;
+  border: 1px solod green;}
+  .col-lg-1{width: 33.33%}
+  .col-lg-2{width: 66.66%}
+  .col-lg-3{width: 100%}
+}
+
+/********** Medium devices only **********/
+/*@media (min-width: 768px) and (max-width: 991px) {
+  #p1 {
+    width: 50%;
+  }
+  #p2 {
+    width: 100%;
+  }
+
+  body {
+    background-color: blue;
+  }
+}
+/********** Small devices only **********/
+/*@media (max-width: 767px) {
+  #p1 {
+    width: 50%;
+  }
+  #p2 {
+    width: 100px;
+    height: 100px;
+  }
+  body {
+    background-color: blue;
+  }
