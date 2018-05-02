@@ -22,6 +22,7 @@ p {
 }
 
 #C {
+	border: 1px solid black;
 	background-color: blue;
 	position: relative;
 	top: 0px;
@@ -29,6 +30,7 @@ p {
 }
 
 #B {
+	border: 1px solid black;
 	background-color: blue;
 	position: relative;
 	top: 0px;
@@ -36,6 +38,7 @@ p {
 }
 
 #S {
+	border: 1px solid black;
 	background-color: blue;
 	position: relative;
 	top: 0px;
